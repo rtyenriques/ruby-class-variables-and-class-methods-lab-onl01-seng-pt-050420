@@ -1,6 +1,6 @@
 class Song
   @@count = 0
-  def.self.count
+  def self.count
     @@count
   end
 def self.genre_count
