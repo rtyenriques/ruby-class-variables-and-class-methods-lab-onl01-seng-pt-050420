@@ -11,3 +11,5 @@ end
 
 
 end
+
+Song.count
